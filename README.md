@@ -1,4 +1,5 @@
 Hi there, I'm @trinibos1 👋
+
 Welcome to my corner of the internet! I'm a tech enthusiast with a passion for mechanical keyboards, sleek cars, and all things code. I'm currently diving deep into keyboard and macropad
 🔧 What I'm Working On
 🌱 I’m currently learning and exploring pcb design and keyboard firmware.
