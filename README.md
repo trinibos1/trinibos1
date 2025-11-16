@@ -8,7 +8,7 @@ Welcome to my corner of the internet! I'm a tech enthusiast with a passion for m
 
 💞️ I’m looking to collaborate on open-source projects related to keyboard customization tools.
 
-📫 Let's Connect
+📫 Let's Connect,
 Email: Trinibos1@proton.me
 
 ✨ Fun Facts
