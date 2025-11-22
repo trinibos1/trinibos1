@@ -1,6 +1,4 @@
-Got it — here’s a rewrite that leans way more into hardware and engineering instead of coding:
 
----
 
 Hey, I’m **@trinibos1** 👋
 
