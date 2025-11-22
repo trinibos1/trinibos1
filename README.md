@@ -1,17 +1,24 @@
-Hi there, I'm @trinibos1 👋
+Got it — here’s a rewrite that leans way more into hardware and engineering instead of coding:
 
-Welcome to my corner of the internet! I'm a tech enthusiast with a passion for mechanical keyboards, sleek cars, and all things code. I'm currently diving deep into keyboard and macropad
-🔧 What I'm Working On
-🌱 I’m currently learning and exploring pcb design and keyboard firmware.
+---
 
-💻 I'm building custom keyboard firmware/hardware.
+Hey, I’m **@trinibos1** 👋
 
-💞️ I’m looking to collaborate on open-source projects related to keyboard customization tools.
+I’m a hardware-focused maker who loves mechanical keyboards, clean engineering, and anything you can build, solder, or bolt together. I’m big on custom keyboards and macropads, and I’m diving deep into PCB design, electronics, and firmware that brings hardware to life.
 
-📫 Let's Connect,
-Email: Trinibos1@proton.me
+### 🔧 What I’m Doing
 
-✨ Fun Facts
+* Learning PCB design and hardware engineering
+* Building custom keyboard/macropad hardware (and the firmware to drive it)
+* Open to collaborating on hardware-heavy or keyboard-related open-source projects
+
+**FTC Team:** Trojan Techbots 23858
+
+### 📫 Contact
+
+**Email:** [Trinibos1@proton.me](mailto:Trinibos1@proton.me)
+
+### ✨ Extras
+
 😄 Pronouns: he/him/dude
-
-⚡ Fun Fact:  The original mouse was a bulky, wooden block with a single button and a cord coming out of the back, resembling a mouse's tail.  It was so rudimentary that Engelbart and his team originally just called it an "X-Y Position Indicator for a Display System." The name "mouse" was simply a nickname that stuck
+⚡ Fun Fact: The first computer mouse was literally a wooden block with one button—officially named the *X-Y Position Indicator for a Display System*. “Mouse” was just a nickname that stuck.
