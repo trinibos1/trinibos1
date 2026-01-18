@@ -9,6 +9,7 @@ I’m a hardware-focused maker who loves mechanical keyboards, clean engineering
 * Learning PCB design and hardware engineering
 * Building custom keyboard/macropad hardware (and the firmware to drive it)
 * Open to collaborating on hardware-heavy or keyboard-related open-source projects
+* Building sites for SCP ROLEPLAY
 
 **FTC Team:** Trojan Techbots 23858
 
