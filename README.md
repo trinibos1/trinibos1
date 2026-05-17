@@ -2,7 +2,7 @@
 
 Hey, I’m **@trinibos1** 👋
 
-I’m a hardware-focused maker who loves mechanical keyboards, clean engineering, and anything you can build, solder, or bolt together. I’m big on custom keyboards and macropads, and I’m diving deep into PCB design, electronics, and firmware that brings hardware to life.
+I’m a hardware-focused maker who loves mechanical keyboards, clean engineering, and anything you can build, solder, or bolt together. I’m A keyabord Nerd
 
 ### 🔧 What I’m Doing
 
@@ -11,7 +11,6 @@ I’m a hardware-focused maker who loves mechanical keyboards, clean engineering
 * Open to collaborating on hardware-heavy or keyboard-related open-source projects
 * Building sites for SCP ROLEPLAY
 
-**FTC Team:** Trojan Techbots 23858
 
 ### 📫 Contact
 
